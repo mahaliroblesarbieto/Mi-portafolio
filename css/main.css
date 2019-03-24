@@ -134,19 +134,26 @@ h4, .font, h3, h5 {
 
 #particles-js {
   width: 100%;
-	height: 78%;
+	height: 58%;
 	position: absolute;
-}
+ }
 }
 
 @media only screen and (min-width: 780px) {
+  #particles-js {
+    width: 100%;
+    height: 58%;
+    position: absolute;
+  }
+}
+
+@media only screen and (min-width: 992px) {
   #particles-js {
     width: 100%;
     height: 100%;
     position: absolute;
   }
 }
-
 .name-proyect {
   font-size: 1.2rem;
   font-weight: bold;
