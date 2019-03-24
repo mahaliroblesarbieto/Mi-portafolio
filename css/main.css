@@ -1,6 +1,11 @@
 
 /* style general  */
 
+.margin{
+  margin-top: 4%;
+  padding-top: 4%
+}
+
 h4, .c-main:hover{
   color: #61DDD5;
 } 
